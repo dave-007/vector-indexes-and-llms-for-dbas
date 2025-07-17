@@ -1,3 +1,7 @@
+# MS Learn Learning Plans:
+https://learn.microsoft.com/en-us/plans/n5mphjtpqp12rk?sharingId=4443CF0AB101D618
+This includes [Build AI Apps with Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/training/paths/build-ai-apps-azure-database-postgresql/?ns-enrollment-type=Collection&ns-enrollment-id=yk1ysetmq3dj71)
+
 
 # Azure AI Samples - Useful Repos
 
@@ -8,7 +12,6 @@
 -
 # YouTube
 
-
 ## Pamela Fox - Amazing resource to understand all things Python, AI, Azure, AI Search & Foundry
 
 ### PGVECTOR talk
@@ -17,7 +20,6 @@
     - GITHUB - https://github.com/Azure-Samples/azure-postgres-pgvector-python
         - https://github.com/pgvector/pgvector-python/
         - https://github.com/pgvector/pgvector
-    - DOCS - https://www.postgresql.org/docs/current/textsearch-controls.html
 - Avthar Sewrathan Talk - https://www.youtube.com/watch?v=Ua6LDIOVN1s
     - SLIDES - https://github.com/dave-007/busy-dev-pgvector-intro/blob/main/busy_dev_pgvector_intro_slides.pdf
     - GITHUB - https://github.com/dave-007/busy-dev-pgvector-intro
@@ -32,3 +34,7 @@
 
 - Understanding Vector Search, Hybrid, Reranking
     https://techcommunity.microsoft.com/blog/azure-ai-services-blog/azure-ai-search-outperforming-vector-search-with-hybrid-retrieval-and-reranking/3929167
+
+
+# What about Vectors in Azure SQL?
+- https://github.com/Azure-Samples/azure-sql-db-vector-search
