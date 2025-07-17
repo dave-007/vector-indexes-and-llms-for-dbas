@@ -1,2 +1,7 @@
 # vector-indexes-and-llms-for-dbas
-Content from precon talk on Vector Indexes in Azure AI Search, Postgres and other tools.
+
+This repo contains content from precon talk on Vector Indexes in Azure AI Search, Postgres and other tools.
+
+[Learning support resources](RESOURCES.md)
+
+[Tentative Schedule](SCHEDULE.md)

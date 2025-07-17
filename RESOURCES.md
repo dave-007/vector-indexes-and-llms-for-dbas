@@ -1,43 +1,34 @@
-# MS Learn Learning Plans:
-https://learn.microsoft.com/en-us/plans/n5mphjtpqp12rk?sharingId=4443CF0AB101D618
-This includes [Build AI Apps with Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/training/paths/build-ai-apps-azure-database-postgresql/?ns-enrollment-type=Collection&ns-enrollment-id=yk1ysetmq3dj71)
+# Great Teachers on PGVector & AI
 
-
-# Azure AI Samples - Useful Repos
-
-- https://microsoftlearning.github.io/mslearn-postgresql/ - AI-3019,  PostgreSQL Exercises
-- https://github.com/dave-007/adaptive-rag-workbench - Investigating
-- https://github.com/Azure/azure-search-vector-samples/tree/main/demo-python - To Investigate
-- https://github.com/dave-007/ai-foundry-workshop - To Investigate
-- https://github.com/jelledruyts/azure-ai-search-lab - To Investigate
-- Cloud Labs - https://github.com/CloudLabsAI-Azure/azure-ai-agents-labs
-
-# YouTube
-
-## Pamela Fox - Amazing resource to understand all things Python, AI, Azure, AI Search & Foundry
-
-### PGVECTOR talks
-- Pamela Fox Talk -  https://www.youtube.com/watch?v=sCX_sB2dQHY
+## Pamela Fox Talk on PGVECTOR 
+    - YouTube - https://www.youtube.com/watch?v=sCX_sB2dQHY
     - SLIDES - https://speakerdeck.com/pamelafox/vector-search-and-retrieval-for-generative-ai-app-microsoft-ai-tour-sf
     - GITHUB - https://github.com/Azure-Samples/azure-postgres-pgvector-python
         - https://github.com/pgvector/pgvector-python/
         - https://github.com/pgvector/pgvector
-- Avthar Sewrathan Talk - https://www.youtube.com/watch?v=Ua6LDIOVN1s
+
+## Avthar Sewrathan Talk on PGVECTOR
+    - YouTube - https://www.youtube.com/watch?v=Ua6LDIOVN1s
     - SLIDES - https://github.com/dave-007/busy-dev-pgvector-intro/blob/main/busy_dev_pgvector_intro_slides.pdf
     - GITHUB - https://github.com/dave-007/busy-dev-pgvector-intro
 
-## AZURE AI TALKS
-### John Savill
+## John Savill - General AZURE AI TALKS
 - https://www.youtube.com/watch?v=orLGv2LgWDE
 - https://www.youtube.com/watch?v=UYJ539hgDS0
-- 
 
+# MS Learn Resources:
+- Build AI Apps with Azure Database for PostgreSQL
+- https://learn.microsoft.com/en-us/training/paths/build-ai-apps-azure-database-postgresql
+
+
+# Useful Repos to learn more about pgvector & llm agents
+
+- https://microsoftlearning.github.io/mslearn-postgresql/ - - AM LABS - AI-3019,  PostgreSQL Exercises
+- https://github.com/CloudLabsAI-Azure/azure-ai-agents-labs - PM LABS
+- https://github.com/Azure/azure-search-vector-samples
+- https://github.com/Azure/ai-foundry-workshop
 
 # Articles
 
 - Understanding Vector Search, Hybrid, Reranking
     https://techcommunity.microsoft.com/blog/azure-ai-services-blog/azure-ai-search-outperforming-vector-search-with-hybrid-retrieval-and-reranking/3929167
-
-
-# What about Vectors in Azure SQL?
-- https://github.com/Azure-Samples/azure-sql-db-vector-search

@@ -1,0 +1,6 @@
+  create permissions for student1 to access foundry:
+  az role assignment create --assignee student1@cobbinfotech.com --role 'Azure AI project manager' --scope /subscriptions/7e9d5674-acf4-4b95-8259-a0cdf6a4597f/resourceGroups/rg-student1-learn-postgresql-ai-eastus
+
+  From management center, added existing azure openai resource
+
+Need slides to support Azure AI Foundry labs, AI Search

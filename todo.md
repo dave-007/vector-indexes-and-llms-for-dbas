@@ -27,19 +27,14 @@ Extract insights using the Azure AI Language service with Azure Database for Pos
 - installed foundry resource, grant student#
 
 - Key topics to share
-  - struggle to keep up, adapt when things break or change
+  - we struggle to keep up, we adapt when things break or change
   - communicate early & often, don't go it alone
   - learning is process not a one time event, how can we support the learning process?
   - sharing the learning rather than having all the answers
   - tech choices: azure, postgres, python, vscode, notebooks, repos
   - teaching & learning  from reading and running (and debugging) code 
 
-  create permissions for student1 to access foundry:
-  az role assignment create --assignee student1@cobbinfotech.com --role 'Azure AI project manager' --scope /subscriptions/7e9d5674-acf4-4b95-8259-a0cdf6a4597f/resourceGroups/rg-student1-learn-postgresql-ai-eastus
 
-  From management center, added existing azure openai resource
-
-Need slides to support Azure AI Foundry labs, AI Search
 
 run zoom meeting to share screen up from if needed
 
