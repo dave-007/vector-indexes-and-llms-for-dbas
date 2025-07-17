@@ -5,16 +5,18 @@ This includes [Build AI Apps with Azure Database for PostgreSQL](https://learn.m
 
 # Azure AI Samples - Useful Repos
 
+- https://microsoftlearning.github.io/mslearn-postgresql/ - AI-3019,  PostgreSQL Exercises
 - https://github.com/dave-007/adaptive-rag-workbench - Investigating
 - https://github.com/Azure/azure-search-vector-samples/tree/main/demo-python - To Investigate
 - https://github.com/dave-007/ai-foundry-workshop - To Investigate
 - https://github.com/jelledruyts/azure-ai-search-lab - To Investigate
--
+- Cloud Labs - https://github.com/CloudLabsAI-Azure/azure-ai-agents-labs
+
 # YouTube
 
 ## Pamela Fox - Amazing resource to understand all things Python, AI, Azure, AI Search & Foundry
 
-### PGVECTOR talk
+### PGVECTOR talks
 - Pamela Fox Talk -  https://www.youtube.com/watch?v=sCX_sB2dQHY
     - SLIDES - https://speakerdeck.com/pamelafox/vector-search-and-retrieval-for-generative-ai-app-microsoft-ai-tour-sf
     - GITHUB - https://github.com/Azure-Samples/azure-postgres-pgvector-python
@@ -24,7 +26,8 @@ This includes [Build AI Apps with Azure Database for PostgreSQL](https://learn.m
     - SLIDES - https://github.com/dave-007/busy-dev-pgvector-intro/blob/main/busy_dev_pgvector_intro_slides.pdf
     - GITHUB - https://github.com/dave-007/busy-dev-pgvector-intro
 
-## John Savill
+## AZURE AI TALKS
+### John Savill
 - https://www.youtube.com/watch?v=orLGv2LgWDE
 - https://www.youtube.com/watch?v=UYJ539hgDS0
 - 
